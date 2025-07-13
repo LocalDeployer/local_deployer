@@ -1,0 +1,8 @@
+downloader:
+  temp_dir: "/tmp/downloads"
+  url: ""
+
+installer:
+  install_dir: "/usr/local/bin"
+  backup_dir: "/backup"
+  
